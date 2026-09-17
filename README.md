@@ -1,8 +1,11 @@
 # AI-Powered Interior Material Recommender & Matching Engine
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ai-interior-material-recommender-zgpgdb84fz5znjushytlts.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://interior-material-recommender-hxx2bqgnyal2hd3vqp2rzb.streamlit.app/)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 An intelligent recommendation system that helps users find matching interior finishing materials (tiles, paints, glass, sanitary ware, etc.) based on natural language queries (style, color, budget, room type, material preferences).
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Highlights
 
@@ -12,6 +15,8 @@ An intelligent recommendation system that helps users find matching interior fin
 - Interactive recommendation engine  
 - Modern Streamlit dashboard with real-time matching
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Features
 
 - Natural language input: "modern blue tiles under 2000 ETB", "white marble for kitchen counter", "frosted glass partition", etc.  
@@ -20,6 +25,8 @@ An intelligent recommendation system that helps users find matching interior fin
 - Price formatting (ETB), unit normalization, category filtering  
 - Adjustable parameters: number of results, minimum similarity threshold  
 - Data from real Ethiopian market (2merkato.com)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech Stack
 
@@ -32,6 +39,8 @@ An intelligent recommendation system that helps users find matching interior fin
 | Data Format           | Parquet (embeddings), CSV (backup)             |
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Results & Performance
 
 - Dataset: 299 real Ethiopian interior/finishing materials (Finishing, Sanitary, Electrical, Tiles & Ceramics, Roofing & Ceiling)  
@@ -41,3 +50,6 @@ An intelligent recommendation system that helps users find matching interior fin
 - Related items (frosted glass, galvanized sheets) score 0.55–0.70  
 - Threshold 0.4–0.45 gives 4–8 relevant matches per query
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Developed by Aklilu Abera | Data Analyst | Construction Engineer**
